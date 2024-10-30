@@ -1,0 +1,3 @@
+# Ignore JavaScript directories and specific config file
+WeatherNow/js
+/config.js
